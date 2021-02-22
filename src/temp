@@ -1,0 +1,24 @@
+{new Date(timeStamp?.toDate()).toUTCString()}
+
+ <Post profilePic={profilepic}
+             message={message} timeStamp={timeStamp} userName={username} image={image} />
+
+
+
+             src= "https://www.facebook.com/
+
+                   plugins/page.php?
+
+            href=https%3A%2F%2Fwww.facebook.
+
+                com%2FCleverProgrammer%2F&
+
+tabs=timeline&width=340&height=1500&
+
+small_header=false&
+
+adapt_container_width=true&
+
+hide=cover=false&show_facepile=true&
+
+appId"
